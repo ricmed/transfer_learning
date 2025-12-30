@@ -72,7 +72,9 @@ Para usar a interface gráfica e fazer previsões em novas imagens:
 
 ## Print do Teste
 - Cachorro
-![image](teste_cachorro.png)
+
+![image](teste-cachorro.png)
 
 - Gato
-![image](teste_gato.png)
+
+![image](teste-gato.png)
